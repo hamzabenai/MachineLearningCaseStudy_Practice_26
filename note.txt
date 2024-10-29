@@ -1,0 +1,2 @@
+this data seem to be pre processed , and little small to make decision of predictions 
+after performing the model the accuracy was 100% right
